@@ -1,12 +1,12 @@
 {
-    "version": "0.6.0",
+    "version": "0.6.1",
     "description": "Command-line interface for the Quicknode SDK",
     "homepage": "https://github.com/quicknode/cli",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/quicknode/cli/releases/download/v0.6.0/quicknode-cli-x86_64-pc-windows-msvc.zip",
-            "hash": "11e703097beecaeb24b5c6f3c84c20a0604b0157d077d125d71e26420c491108"
+            "url": "https://github.com/quicknode/cli/releases/download/v0.6.1/quicknode-cli-x86_64-pc-windows-msvc.zip",
+            "hash": "aa986ece99e100eb0d795b32d532a998c0bf399b73c0f455f23c16f0796938dc"
         }
     },
     "bin": "qn.exe",
